@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "covid-19-e91cd",
+    "covid-19": "covid-19-e91cd"
+  },
+  "targets": {}
+}
